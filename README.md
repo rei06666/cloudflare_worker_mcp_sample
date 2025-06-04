@@ -15,7 +15,7 @@ npx @modelcontextprotocol/inspector
 ```
 
 - http://127.0.0.1:6274をブラウザで開く
--TransportTypeを「Streamable HTTP」、URLに http://localhost:8787/mcp 入力し、connect
+- TransportTypeを「Streamable HTTP」、URLに http://localhost:8787/mcp 入力し、connect
 
 ## Cloudflareへのデプロイ
 ```
