@@ -1,4 +1,7 @@
 # cloudflare_worker_mcp_sample
+## 事前準備
+[Home - Cloudflare Workers®](https://workers.cloudflare.com/)からCloudflare workersにサインアップ
+
 ## 環境構築
 ```
 npm install
