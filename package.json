@@ -1,5 +1,5 @@
 {
-	"name": "naruse-mcp-server",
+	"name": "cloudflare-mcp-server",
 	"version": "0.0.0",
 	"private": true,
 	"scripts": {
